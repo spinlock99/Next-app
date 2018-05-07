@@ -1,9 +1,9 @@
 {
-  "short_name": "NAME",
-  "name": "NAME",
+  "short_name": "Next app",
+  "name": "Next app",
   "icons": [
     {
-      "src":"ICON",
+      "src":"https://process.filestackapi.com/resize=width:144/uWfK46PtRDmDIUeNW0st",
       "sizes": "144x144",
       "type": "image/png"
     }
